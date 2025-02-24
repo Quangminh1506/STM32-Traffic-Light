@@ -1,0 +1,8 @@
+../Core/Src/led7seg.c:16:6:display7SEG	16	static
+../Core/Src/led7seg.c:113:6:display7SEGM	16	static
+../Core/Src/led7seg.c:214:6:auto_update7SEG	8	static
+../Core/Src/led7seg.c:229:6:auto_update7SEG_red	8	static
+../Core/Src/led7seg.c:244:6:auto_update7SEG_yellow	8	static
+../Core/Src/led7seg.c:259:6:auto_update7SEG_green	8	static
+../Core/Src/led7seg.c:274:6:update7SEG	16	static
+../Core/Src/led7seg.c:291:6:update7SEGM	16	static

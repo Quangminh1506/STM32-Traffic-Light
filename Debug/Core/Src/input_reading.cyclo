@@ -1,0 +1,2 @@
+../Core/Src/input_reading.c:24:6:button_reading	8
+../Core/Src/input_reading.c:50:5:is_button_pressed	2

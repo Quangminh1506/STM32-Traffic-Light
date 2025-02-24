@@ -1,0 +1,2 @@
+../Core/Src/traffic.c:19:6:fsm_mode	8	static
+../Core/Src/traffic.c:70:6:fsm_traffic_light	8	static

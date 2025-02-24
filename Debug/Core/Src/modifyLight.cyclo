@@ -1,0 +1,3 @@
+../Core/Src/modifyLight.c:11:6:modify_red	8
+../Core/Src/modifyLight.c:40:6:modify_yellow	8
+../Core/Src/modifyLight.c:69:6:modify_green	8

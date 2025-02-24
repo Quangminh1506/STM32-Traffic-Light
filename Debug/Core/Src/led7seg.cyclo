@@ -1,0 +1,8 @@
+../Core/Src/led7seg.c:16:6:display7SEG	11
+../Core/Src/led7seg.c:113:6:display7SEGM	11
+../Core/Src/led7seg.c:214:6:auto_update7SEG	2
+../Core/Src/led7seg.c:229:6:auto_update7SEG_red	2
+../Core/Src/led7seg.c:244:6:auto_update7SEG_yellow	2
+../Core/Src/led7seg.c:259:6:auto_update7SEG_green	2
+../Core/Src/led7seg.c:274:6:update7SEG	3
+../Core/Src/led7seg.c:291:6:update7SEGM	3
