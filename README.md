@@ -6,10 +6,6 @@ This project implements a traffic light control system using an STM32 microcontr
 
 The system simulates a dual-direction traffic light with automatic cycling and manual configuration modes. It uses an STM32 MCU (likely an STM32F1 or similar, based on HAL usage) with GPIO for LEDs and 7-segment displays, a timer for scheduling, and buttons for user input. The project demonstrates finite state machine (FSM) design, timer interrupts, and GPIO control.
 
-- **Author**: Onii-Chan
-- **Date**: Created October 24-26, 2024
-- **Hardware**: STM32 MCU (e.g., STM32F103), 6 LEDs, 4-digit 7-segment display (split as two 2-digit sets), 3 buttons
-
 ## Features
 
 - **Automatic Mode**: Cycles through traffic states (Red-Green, Red-Yellow, Green-Red, Yellow-Red) with configurable durations.
